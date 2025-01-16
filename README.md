@@ -28,13 +28,11 @@ In this repository I will post some of my uni and personal projects.
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![MIPS](https://img.shields.io/badge/MIPS-0096FF?logo=mips&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 
-### Functional Languages
+### Functional-based languages
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-
-### Scripting Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 
 ### Query Languages
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
