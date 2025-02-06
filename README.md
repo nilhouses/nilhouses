@@ -35,7 +35,7 @@ In this repository I will post some of my uni and personal projects.
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
 ### Query Languages
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 ### Tools and Libraries
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?logo=opengl&logoColor=blue)
