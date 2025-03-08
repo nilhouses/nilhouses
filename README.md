@@ -12,8 +12,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://www.linkedin.com/in/nil/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nil's LinkedIn"/></a>
+
+![visitors](https://pageview.vercel.app/?github_user=nilhouses)
+
+### My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilhouses&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilhouses&langs_count=5&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Nil+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 -->
 ## Hi there, I'm Nil 👋
+
+
 I'm a Computer Science student at FIB-UPC in Barcelona.
 In this repository I will post some of my uni and personal projects.
 
