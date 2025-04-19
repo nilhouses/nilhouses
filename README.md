@@ -58,9 +58,11 @@ In this repository I will post some of my projects.
   <img width="12" />
 </div>
 
-#### ⚙️ Description Languages and Programming Tools
+#### ⚙️ Assembly and Language Construction
 <div align="left">
   <img src=".images/mips.png" height="40" alt="MIPS logo" />
+  <img width="12" />
+  <img src=".images/x86.png" height="40" alt="X86 logo" />
   <img width="12" />
   <img src=".images/antlr.svg" height="40" alt="ANTLR logo" />
   <img width="12" />
@@ -106,15 +108,10 @@ In this repository I will post some of my projects.
 </div>
 
 
+
+### 🎧 Music [Listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1EpjNe2LPGtZ96?si=TTK3BFgXRi2VfiAUKahj)
+
 <!-- 
-PER AFEGIR EN UN FUTUR
-
-### Unity frist contact (2D mario bros game)
-
- 
-
-
-### Music
+### 🎵 Recent songs listened to
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nilcd)
--->
