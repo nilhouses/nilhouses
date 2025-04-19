@@ -5,10 +5,6 @@
 I'm a Computer Science student at FIB-UPC in Barcelona.
 In this repository I will post some of my uni and personal projects.
 
-- 📫 Contact:
-    - Personal email: nil.cases@gmail.com
-    - Uni email: nil.casas.duatis@estudiantat.upc.edu
-
 
 ### 🛠 Programming languages, tools and libraries I've worked with <!-- PER ACABAR-->
 
@@ -44,13 +40,6 @@ In this repository I will post some of my uni and personal projects.
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
 </div>
 
-### Contact
-
-<div align="left">
-
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
 ###
 
@@ -60,4 +49,18 @@ In this repository I will post some of my uni and personal projects.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
+### Contact 📫
+
+<div align="left">
+
+  <a href="mailto:nil.cases@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Personal%20Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="personal email logo" />
+  </a>
+
+  <a href="mailto:nil.casas.duatis@estudiantat.upc.edu">
+    <img src="https://img.shields.io/static/v1?message=University%20Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="university email logo" />
+  </a>
+<!-- 
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+-->
