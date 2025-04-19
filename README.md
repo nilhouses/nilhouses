@@ -5,43 +5,26 @@
 I'm a Computer Science student at FIB-UPC in Barcelona.
 In this repository I will post some of my uni and personal projects.
 
-
-### 🛠 Programming languages, tools and libraries I've worked with <!-- PER ACABAR-->
+### 📫 Contact 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
+  <a href="mailto:nil.casas.duatis@estudiantat.upc.edu">
+    <img src="https://img.shields.io/static/v1?message=UPC&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="university email logo" />
+  </a>
 </div>
 
+<div align="left">
+  <a href="mailto:nil.cases@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Personal&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal email logo" />
+  </a>
+</div>
+<!-- LOGO LINKEDIN   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+    <img width="12" />
+-->
 
-###
+
+<!-- PacMan-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph-dark.svg">
@@ -49,18 +32,89 @@ In this repository I will post some of my uni and personal projects.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
 </picture>
 
+<!-- Lannguages -->
 
-### Contact 📫
+### 🛠 Programming Languages, Tools, and Libraries
 
+#### 📜 Imperative Languages
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
+</div>
 
-  <a href="mailto:nil.cases@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Personal%20Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="personal email logo" />
-  </a>
 
-  <a href="mailto:nil.casas.duatis@estudiantat.upc.edu">
-    <img src="https://img.shields.io/static/v1?message=University%20Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="university email logo" />
-  </a>
+#### 🧑‍💻 Functional Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell logo"  />
+  <img width="12" />
+  <img src=".images/Scheme.png" height="40" alt="Scheme logo"  />
+  <img width="12" />
+</div>
+
+#### ⚙️ Description Languages and Programming Tools
+<div align="left">
+  <img src=".images/mips.png" height="40" alt="MIPS logo" />
+  <img width="12" />
+  <img src=".images/antlr.svg" height="40" alt="ANTLR logo" />
+  <img width="12" />
+</div>
+
+#### 👁️ Graphics and Visualization
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt logo"  />
+  <img width="12" />
+</div>
+
+#### 🗃️ Databases and Analysis Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio logo"  />
+</div>
+
+#### 🔧 Version Control and Project Management Tools
+<div align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="Gradle logo"  />
+  <img width="12" />
+</div>
+
+#### 🎮 Game Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo"  />
+</div>
+
+
+[simple 2D game](https://nilcd.itch.io/projecte)
+
+
+#### 💻 Operating Systems
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
+</div>
+
+
 <!-- 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+PER AFEGIR EN UN FUTUR
+
+### Unity frist contact (2D mario bros game)
+
+ 
+
+
+### Music
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nilcd)
 -->
