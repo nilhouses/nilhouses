@@ -1,51 +1,4 @@
-<!--
-    https://profile-readme-generator.com/
-
-<h3 align="left">🛠 Programming languages, tools and libraries I've worked with</h3>
-
-<div align="left">
-  <!-- Imperative Languages --
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <!-- MIPS PNG fallback --
-  <img src="https://raw.githubusercontent.com/yale-cpsc431-spring2020/resources/master/images/mips-logo.png" height="40" alt="MIPS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
-  <img width="12" />
-
-  <!-- Functional-based Languages --
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo" />
-  <img width="12" />
-
-  <!-- Query Languages --
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL/MySQL logo" />
-  <img width="12" />
-
-  <!-- Tools and Libraries --
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt logo" />
-  <img width="12" />
-  <!-- ANTLR4 PNG fallback --
-  <img src="https://user-images.githubusercontent.com/558905/232330688-b1f27f8e-e8a3-4c7e-9b4d-85f723ec5331.png" height="40" alt="ANTLR4 logo" />
-</div> 
--->
-
-<!-- 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilhouses&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilhouses&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
--->
+<!-- GOT THE INFO IMAGES FROM -> https://profile-readme-generator.com/ -->
 
 ## Hi there, I'm Nil 👋
 
@@ -57,7 +10,7 @@ In this repository I will post some of my uni and personal projects.
     - Uni email: nil.casas.duatis@estudiantat.upc.edu
 
 
-###
+### 🛠 Programming languages, tools and libraries I've worked with <!-- PER ACABAR-->
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
@@ -91,7 +44,7 @@ In this repository I will post some of my uni and personal projects.
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
 </div>
 
-###
+### Contact
 
 <div align="left">
 
