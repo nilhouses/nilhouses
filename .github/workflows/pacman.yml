@@ -24,6 +24,13 @@ jobs:
       - name: List files in the current directory for debugging
         run: ls -alh
 
+      - name: Check if pacman-contribution-graph.svg exists
+        run: |
+          if [ ! -f pacman-contribution-graph.svg ]; then
+            echo "Error: pacman-contribution-graph.svg not found!"
+            exit 1
+          fi
+
       - name: Move graph to dist directory
         run: |
           mkdir -p dist
