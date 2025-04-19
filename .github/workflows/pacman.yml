@@ -6,11 +6,15 @@ name: Generate pacman animation
  
 
 on:
+<<<<<<< HEAD
  
 
   schedule: # execute every 12 hours
  
 
+=======
+  schedule: 
+>>>>>>> 0adc0e42b7880c1b218b22a34355bc563f76eeb2
     - cron: "* */12 * * *"
  
 
