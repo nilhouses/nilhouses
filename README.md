@@ -58,7 +58,7 @@ In this repository I will post some of my projects.
   <img width="12" />
 </div>
 
-#### ⚙️ Assembly and Language Construction
+#### ⚙️ Assembly and Syntax tools
 <div align="left">
   <img src=".images/mips.png" height="40" alt="MIPS logo" />
   <img width="12" />
@@ -109,9 +109,9 @@ In this repository I will post some of my projects.
 
 
 
-### 🎧 Music [Listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1EpjNe2LPGtZ96?si=TTK3BFgXRi2VfiAUKahj)
-
 <!-- 
+
+### 🎧 Music [Listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1EpjNe2LPGtZ96?si=TTK3BFgXRi2VfiAUKahj)
 ### 🎵 Recent songs listened to
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nilcd)
