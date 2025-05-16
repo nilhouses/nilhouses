@@ -2,8 +2,7 @@
 
 ## Hi there, I'm Nil 👋
 
-I'm a Computer Science student at FIB-UPC in Barcelona.
-In this repository I will post some of my projects.
+I'm a Computer Engineering student at FIB-UPC in Barcelona.
 
 ### 📫 Contact 
 
