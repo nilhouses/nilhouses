@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Nil 👋
 
-I'm a Computer Engineering student at FIB-UPC in Barcelona.
+I'm a Computer Science student at FIB-UPC in Barcelona.
 
 ### 📫 Contact 
 
@@ -24,12 +24,14 @@ I'm a Computer Engineering student at FIB-UPC in Barcelona.
 
 
 <!-- PacMan-->
+<!-- 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 <!-- Lannguages -->
 
