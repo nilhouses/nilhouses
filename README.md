@@ -16,11 +16,11 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
   <img width="12" /> -->
 </div>
 
-<div align="left">
+<!-- <div align="left">
   <a href="mailto:nil.cases@gmail.com">
-    <img src="https://img.shields.io/static/v1?message= &logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal email logo" />
+    <img src="https://img.shields.io/static/v1?message=Personal&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal email logo" />
   </a>
-</div>
+</div> -->
 
 
 <!-- PacMan, not used right now
