@@ -10,34 +10,34 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
   <a href="mailto:nil.casas.duatis@estudiantat.upc.edu">
     <img src="https://img.shields.io/static/v1?message=UPC&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="university email logo" />
   </a>
+  <!-- <a href="https://www.linkedin.com/in/nil-casas-duatis-9b2203329/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  </a>
+  <img width="12" /> -->
 </div>
 
 <div align="left">
   <a href="mailto:nil.cases@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Personal&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal email logo" />
+    <img src="https://img.shields.io/static/v1?message= &logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal email logo" />
   </a>
 </div>
-<!-- LOGO LINKEDIN   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-    <img width="12" />
--->
 
 
-<!-- PacMan-->
-<!-- 
+<!-- PacMan, not used right now
 
-<picture>
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
-</picture>
--->
+</picture> -->
 
-<!-- Lannguages -->
+
+<!-- Languages -->
 
 ### 🛠 Programming Languages, Tools, and Libraries
 
-#### 📜 Imperative Languages
+#### 📜 Imperative & Object-Oriented Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
   <img width="12" />
@@ -48,11 +48,24 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
 </div>
 
+#### 🧠 Logic & Declarative Languages
+<div align="left">
+  <img src=".images/clips.png" height="40" alt="CLIPS logo" />
+  <img width="12" />
+  <img src=".images/pddl.png" height="40" alt="Pddl logo" />
+  <img width="12" />
+  <!-- <img src=".images/prolog.png" height="40" alt="Prolog logo" />
+  <img width="12" /> -->
+</div>
 
-#### 🧑‍💻 Functional Languages
+#### 🐍 Multi-Paradigm Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
+</div>
+
+#### 🧑‍💻 Functional Languages
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell logo"  />
   <img width="12" />
   <img src=".images/Scheme.png" height="40" alt="Scheme logo"  />
@@ -84,6 +97,15 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio logo"  />
 </div>
 
+#### 📄 Documentation
+
+<div align="left">
+  <img src=".images/latex.svg" height="30" alt="LaTeX logo" />
+  <img width="9" />
+  <img src="https://www.doxygen.nl/assets/doxygen.svg" height="30" alt="Doxygen logo" />
+  <img width="12" />  
+</div>
+
 #### 🔧 Version Control and Project Management Tools
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
@@ -97,9 +119,7 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo"  />
 </div>
 
-
-[simple 2D game](https://nilcd.itch.io/projecte)
-
+<!-- [simple 2D game](https://nilcd.itch.io/projecte) -->
 
 #### 💻 Operating Systems
 <div align="left">
@@ -107,7 +127,6 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
 </div>
-
 
 
 <!-- 
