@@ -3,6 +3,14 @@
 ## Hi there, I'm Nil 👋
 
 I'm a Computer Science student at FIB-UPC in Barcelona.
+<!--PacMan, -->
+
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
+</picture> 
 
 ### 📫 Contact 
 
@@ -21,17 +29,6 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
     <img src="https://img.shields.io/static/v1?message=Personal&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal email logo" />
   </a>
 </div> -->
-
-
-<!-- PacMan, not used right now
-
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
-</picture> -->
-
 
 <!-- Languages -->
 
