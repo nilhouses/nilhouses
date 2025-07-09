@@ -33,7 +33,7 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
 
 <!-- Languages -->
 
-### 🛠 Programming Languages, Tools, and Libraries
+### 🛠 Programming Languages, Tools, and Libraries I've worked with
 
 #### 📜 Imperative & Object-Oriented Languages
 <div align="left">
