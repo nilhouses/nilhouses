@@ -52,8 +52,8 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
   <img width="12" />
   <img src=".images/pddl.png" height="40" alt="Pddl logo" />
   <img width="12" />
-  <!-- <img src=".images/prolog.png" height="40" alt="Prolog logo" />
-  <img width="12" /> -->
+  <img src=".images/prolog.png" height="40" alt="Prolog logo" />
+  <img width="12" />
 </div>
 
 #### 🐍 Multi-Paradigm Languages
