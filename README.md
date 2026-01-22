@@ -2,10 +2,9 @@
 
 ## Hi there, I'm Nil 👋
 
-I'm a Computer Science student at FIB-UPC in Barcelona.
+I'm a Computer Science student at [FIB-UPC](https://www.fib.upc.edu/) in Barcelona.
+
 <!--PacMan, -->
-
-
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilhouses/nilhouses/output/pacman-contribution-graph.svg">
@@ -23,7 +22,6 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
    </a>
    <img width="12" />
  </div>
- 
  <div align="left">
    <a href="mailto:nil.cases@gmail.com">
      <img src="https://img.shields.io/static/v1?message=Personal&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal email logo" />
@@ -33,89 +31,83 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
 
 <!-- Languages -->
 
-### 🛠 Programming Languages, Tools, and Libraries I've worked with
+### 🛠 Technologies I've worked with
 
-#### 📜 Imperative & Object-Oriented Languages
+#### 📜 Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell" />
 </div>
 
-#### 🧠 Logic & Declarative Languages
+#### 🌐 Web Development
 <div align="left">
-  <img src=".images/clips.png" height="40" alt="CLIPS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src=".images/pddl.png" height="40" alt="Pddl logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src=".images/prolog.png" height="40" alt="Prolog logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
 
-#### 🐍 Multi-Paradigm Languages
+#### 🧠 Databases, Logic, AI & Data Science
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
+  <img src=".images/prolog.png" height="40" alt="Prolog" />
+  <img width="12" />
+  <img src=".images/clips.png" height="40" alt="CLIPS" />
+  <img width="12" />
+  <img src=".images/pddl.png" height="40" alt="PDDL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
 </div>
 
-#### 🧑‍💻 Functional Languages
+#### ⚙️ Assembly languages, Graphics & Game Development
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell logo"  />
+  <img src=".images/mips.png" height="40" alt="MIPS" />
   <img width="12" />
-  <img src=".images/Scheme.png" height="40" alt="Scheme logo"  />
+  <img src=".images/x86.png" height="40" alt="X86" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 </div>
 
-#### ⚙️ Assembly and Syntax tools
+#### 🔧 Other Tools
 <div align="left">
-  <img src=".images/mips.png" height="40" alt="MIPS logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
   <img width="12" />
-  <img src=".images/x86.png" height="40" alt="X86 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src=".images/antlr.svg" height="40" alt="ANTLR logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="Moodle" />
   <img width="12" />
-</div>
-
-#### 👁️ Graphics and Visualization
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL logo"  />
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="Gradle" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt logo"  />
-  <img width="12" />
-</div>
-
-#### 🗃️ Databases and Analysis Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio logo"  />
+  <img src=".images/antlr.svg" height="40" alt="ANTLR" />
 </div>
 
 #### 📄 Documentation
-
 <div align="left">
-  <img src=".images/latex.svg" height="30" alt="LaTeX logo" />
+  <img src=".images/latex.svg" height="30" alt="LaTeX" />
   <img width="9" />
-  <img src="https://www.doxygen.nl/assets/doxygen.svg" height="30" alt="Doxygen logo" />
-  <img width="12" />  
+  <img src="https://www.doxygen.nl/assets/doxygen.svg" height="30" alt="Doxygen" />
 </div>
 
-#### 🔧 Version Control and Project Management Tools
-<div align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="Gradle logo"  />
-  <img width="12" />
-</div>
-
-#### 🎮 Game Development
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo"  />
-</div>
+---
 
 <!-- [simple 2D game](https://nilcd.itch.io/projecte) 
 -->
@@ -136,9 +128,7 @@ I'm a Computer Science student at FIB-UPC in Barcelona.
 </div>
 -->
 
-<!-- 
 
-### 🎧 Music [Listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1EpjNe2LPGtZ96?si=TTK3BFgXRi2VfiAUKahj)
-### 🎵 Recent songs listened to
+### 🎵 Recent songs I've listened to 🎧
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nilcd)
