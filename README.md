@@ -104,6 +104,12 @@ I'm a Computer Science student at [FIB-UPC](https://www.fib.upc.edu/) in Barcelo
 <div align="left">
   <img src=".images/latex.svg" height="30" alt="LaTeX" />
   <img width="9" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/markdown/ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/markdown/000000">
+    <img alt="Markdown" src="https://cdn.simpleicons.org/markdown/000000" height="30">
+  </picture>
+  <img width="9" />
   <img src="https://www.doxygen.nl/assets/doxygen.svg" height="30" alt="Doxygen" />
 </div>
 
