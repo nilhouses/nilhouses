@@ -72,6 +72,8 @@ I'm a Computer Science student at [FIB-UPC](https://www.fib.upc.edu/) in Barcelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="Matlab" />
 </div>
 
 #### ⚙️ Assembly languages, Graphics & Game Development
